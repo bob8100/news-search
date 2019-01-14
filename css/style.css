@@ -1,0 +1,32 @@
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6, .navbar-brand {
+  font-family: 'Roboto Slab', serif; }
+
+h1 {
+  margin-bottom: 1em;
+  margin-top: 1em; }
+
+.world-headlines-container h2, .sport-headlines h2, .entertainment-headlines h2, .business-headlines h2 {
+  margin-bottom: 1em; }
+.world-headlines-container .media, .sport-headlines .media, .entertainment-headlines .media, .business-headlines .media {
+  margin-bottom: 1em; }
+
+.world-headlines-container .card {
+  margin-bottom: 2em; }
+
+footer {
+  margin-top: 2em;
+  padding-bottom: 2em; }
+
+.search-results .card {
+  margin-bottom: 1em; }
+
+.sport-headlines, .entertainment-headlines, .business-headlines {
+  margin-bottom: 2em; }
+  .sport-headlines .media img, .entertainment-headlines .media img, .business-headlines .media img {
+    width: 100px;
+    height: 100px;
+    overflow: hidden; }
+  .sport-headlines a:hover, .entertainment-headlines a:hover, .business-headlines a:hover {
+    text-decoration: none; }
+
+/*# sourceMappingURL=style.css.map */
